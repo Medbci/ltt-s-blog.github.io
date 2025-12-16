@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in Intelligent Medical Engineering at Tianjin University, China. My research interest includes computer vision, causal inference, deep learning, and spiking neuro network.
+I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in Intelligent Medical Engineering at Tianjin University, China. My research interest includes medical image analysis, causal inference, deep learning, and neuroscience.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
