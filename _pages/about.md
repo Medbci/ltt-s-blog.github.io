@@ -11,6 +11,8 @@ I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in
 
 Publications
 ======
+Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for EEG Signals in Disorders of Consciousness Patients
+*Neural Networks,2025*
 
 
 News
