@@ -11,15 +11,15 @@ I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in
 
 Publications
 ======
-Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for EEG Signals in Disorders of Consciousness Patients
+-Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for EEG Signals in Disorders of Consciousness Patients
 
 *Neural Networks, 2025*
 
-SrSNet: Accurate segmentation of stroke lesions by a two-stage segmentation framework with asymmetry information
+-SrSNet: Accurate segmentation of stroke lesions by a two-stage segmentation framework with asymmetry information
 
 *Expert Systems with Applications, 2024*
 
-Signal propagation of fuzzy granule networks deriving from financial time series
+-Signal propagation of fuzzy granule networks deriving from financial time series
 
 *Communications in Nonlinear Science and Numerical Simulation, 2021*
 
