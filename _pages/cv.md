@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Intelligent Medical Engineering, Tianjin University, 2028 (expected)
-* B.S. in ComputerScienceandTechnology, Shandong Normal University, 2021
+* B.S. in Computer Science and Technology, Shandong Normal University, 2021
 
 Skills
 ======
