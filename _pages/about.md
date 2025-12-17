@@ -29,5 +29,6 @@ News
 
 
 
-<img src="https://i-blog.csdnimg.cn/blog_migrate/7d12c98dbf430340e3ae64e72a87e741.gif" alt="">
+![](https://i-blog.csdnimg.cn/blog_migrate/7d12c98dbf430340e3ae64e72a87e741.gif)
+
 
