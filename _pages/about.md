@@ -29,6 +29,6 @@ News
 
 
 
-![](flower.gif)
+![](/images/flower.gif)
 
 
