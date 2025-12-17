@@ -25,5 +25,5 @@ Selected Publications
 
 News
 ======
-- On Nov 12, 2025, my paper was successfully published in *Neural Networks*.
+🎈 On Nov 12, 2025, my paper was successfully published in *Neural Networks*.
 
