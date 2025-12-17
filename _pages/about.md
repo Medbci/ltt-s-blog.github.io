@@ -29,6 +29,6 @@ News
 
 
 
-![](/images/flower.gif)
+![]({{ "/images/flower.gif" | relative_url }})
 
 
