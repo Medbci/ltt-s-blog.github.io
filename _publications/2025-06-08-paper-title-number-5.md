@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for EEG Signals in Disorders of Consciousness Patients"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
