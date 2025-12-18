@@ -3,11 +3,17 @@ title: "Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for E
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: ''
 date: 2025-11-12
 venue: 'GitHub Journal of Bugs'
 paperurl: '/files/paper1.pdf'
-citation: 'Tingting Li. (2025). &quot; <i>Neural Networks</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Electroencephalography (EEG) shows strong potential for detecting physiological biomarkers of consciousness,
+and brain network analysis serves as an effective technique. Therefore, a robust approach to brain network
+construction is of great significance. The convergent cross mapping (CCM) is a powerful tool for capturing the
+coupling relationship between two signals. However, a major drawback of CCM is its sensitivity to noise. To
+address this problem, we proposed a symbolic method that combines fuzzy membership functions called fuzzy
+symbolic convergent cross mapping (FuzzSCCM). Through the simulation results, we verified its robustness to
+noise, sensitivity to coupling, and data length. Building on this coupling measure, we constructed EEG brain
+networks and validated the approach on real DOC EEG datasets.
