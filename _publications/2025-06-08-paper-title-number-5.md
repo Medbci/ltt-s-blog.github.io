@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-11-12
 venue: 'GitHub Journal of Bugs'
-paperurl: '[/files/paper1.pdf](https://medbci.github.io/files/paper1.pdf)'
+paperurl: 'https://medbci.github.io/files/paper1.pdf'
 citation: 'Tingting Li. (2025). &quot; <i>Neural Networks</i>.'
 ---
 
