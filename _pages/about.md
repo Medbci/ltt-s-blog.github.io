@@ -32,5 +32,7 @@ News
 
 
 ![]({{ "/images/flower.gif" | relative_url }}) 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Medbci.ltt-s-blog.github.io" alt="visitor badge"/>
+
 
 
