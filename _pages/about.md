@@ -9,6 +9,18 @@ redirect_from:
 
 I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in Intelligent Medical Engineering at Tianjin University, China. My research interest includes medical image analysis, causal inference, deep learning, and neuroscience.  Current research mainly utilizes statistical methods such as causal inference and Gaussian inference to explore the brain network characteristics of ADHD patients.
 
+Education
+======
+* Ph.D in Intelligent Medical Engineering, Tianjin University, 2028 (expected)
+* B.S. in Computer Science and Technology, Shandong Normal University, 2021
+
+Skills
+======
+* Python
+* C
+* C++
+* Pytorch
+
 Selected Publications
 ======
 - Fuzzy Symbolic Convergent Cross Mapping: A Causal Coupling Measure for EEG Signals in Disorders of Consciousness Patients
