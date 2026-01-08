@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in Intelligent Medical Engineering at Tianjin University, China. My research interest includes medical image analysis, causal inference, deep learning, and neuroscience.  Current research mainly utilizes statistical methods such as causal inference and Gaussian inference to explore the brain network characteristics of ADHD patients.
+I'm currently a second-year Ph.D. candidate (Integrated Master–PhD Program) in Intelligent Medical Engineering at Tianjin University, China. My research interest includes medical image analysis, causal inference, deep learning, and neuroscience.  Current research mainly utilizes statistical methods such as causal inference and Gaussian inference to explore the brain network characteristics of ADHD patients. And I hope to combine the resulting network-level insights with machine learning approaches to support more reliable and interpretable computer-aided diagnosis.
 
 
 
