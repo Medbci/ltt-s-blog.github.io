@@ -27,6 +27,7 @@ Selected Publications
 
 News
 ======
+🎈 On May 28, 2026, I received CSC scholarship.
 🎈 On Nov 12, 2025, my paper was successfully published in *Neural Networks*.
 
 
